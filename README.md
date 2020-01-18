@@ -1,2 +1,1 @@
-# GitHub-scenarij
-Moj prvi github repozitorij
+Studiram na Fakultetu informatike u Puli
